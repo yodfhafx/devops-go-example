@@ -1,4 +1,4 @@
-module github.com/eazy-training/devops-go-example
+module github.com/yodfhafx/devops-go-example
 
 go 1.18
 
