@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/aorjoa-training/devops-go-example/rest/handler"
+	"github.com/eazy-training/devops-go-example/rest/handler"
 	"github.com/labstack/echo/v4"
 
 	_ "github.com/lib/pq"
